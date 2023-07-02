@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Xox+yN9NuUfJqbp7WI4dD1ZBcD3iYtdUlXC+GAkVdW2nt9qzJRbEK0yZ/VVq3Y2QdGJdFnp+/CksoXPGpkD5g==",
+  "success": true,
+  "projectFilePath": "E:\\ALL IN\\2. Projects\\GoShopping\\Back-end\\GoShopping.Utilities\\GoShopping.Utilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Giang\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

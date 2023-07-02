@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "E5PvQlEUTweAP+Sr/BHCSdh/j8MKp6dSLoS5cPr3JDc=",
+  "Source": "GoShopping.BackendAPI",
+  "BasePath": "_content/GoShopping.BackendAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
